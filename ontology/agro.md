@@ -1,14 +1,15 @@
 ---
 layout: ontology_detail
 id: agro
+alternatePrefix: AgrO
 title: Agronomy Ontology
 contact:
   email: m.a.laporte@cgiar.org
   label: Marie-Angélique Laporte
   github: marieALaporte
-description: Ontology of agronomic practices, agronomic techniques, and agronomic variables used in agronomic experiments
+description: Ontology of agronomic practices, techniques, and variables used in agronomic experiments
 domain: agronomy
-homepage: https://github.com/AgriculturalSemantics/agro
+homepage: https://bigdata.cgiar.org/resources/agronomy-ontology/
 license:
   url: https://creativecommons.org/licenses/by/4.0/
   label: CC-BY
@@ -35,5 +36,6 @@ tracker: https://github.com/AgriculturalSemantics/agro/issues/
 activity_status: active
 ---
 
-AGRO, the AGRonomy Ontology, describes agronomic practices, agronomic techniques, and agronomic variables used in agronomic experiments. AGRO is being built using traits identified by agronomists, the ICASA variables, and other existing ontologies such as ENVO, UO, and PATO, IAO, and CHEBI. Further, AGRO will power an Agronomy Management System and fieldbook modeled on a CGIAR Breeding Management System to capture agronomic data. 
+AgrO, the Agronomy Ontology, describes agronomic practices, agronomic techniques, and agronomic variables used in agronomic experiments. AgrO is being built using traits identified by agronomists, the ICASA variables, and other existing ontologies such as ENVO, UO,PATO, IAO, and CHEBI. Further, AgrO powers AgroFIMS, the Agronomy Fieldbook and Information Management System modeled on a CGIAR Breeding Management System to capture agronomic data. 
+
 
